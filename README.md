@@ -1,5 +1,5 @@
 # Bike-sharing system
-> Outline a brief description of your project.
+> 
 BoomBikes:
 
 A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short
